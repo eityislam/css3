@@ -103,6 +103,10 @@ h3{
     text-align: center;
     padding: 7px;
 }
+  .word::before{
+  content: "😀";
+}
+
 
 
 
